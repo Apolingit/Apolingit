@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jan Msrk
+- 👋 Hi, I’m Jan Mark
 - 👀 I’m interested in Python programming 
 - 🌱 I’m currently learning Python with Django
 - 💞️ I’m looking to collaborate on making web aplication 
